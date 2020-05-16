@@ -1,0 +1,100 @@
+.snoopy-header{
+    margin-top: 30px;
+    font-family: 'Sacramento', cursive;
+}
+
+.snoopy-anchor{
+    font-family: 'Sacramento', cursive;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.second-worker-sect {
+    margin-left: 320px;
+}
+
+.snoopy-menu{
+    font-size: 1.1rem;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.faq-answers {
+    font-size: 0.8rem;
+}
+
+.snoopy-contact{
+    padding-top: 50px;
+}
+
+.dog-figure {
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+.vet-img {
+    box-shadow: 10px 10px 5px grey;
+}
+
+.snoopy-location {
+    padding-left: 120px;
+    padding-top: 100px;
+}
+
+/**.button {
+    display: inline-flex;
+    height: 40px;
+    width: 150px;
+    border: 2px solid #ec7373;
+    margin: 20px 20px 20px 20px;
+    color: #ec7373;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: .8em;
+    letter-spacing: 1.5px;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  #button-3 {
+    margin-top: 60px;
+    margin-bottom: 50px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  #button-3 a {
+    position: relative;
+    transition: all .45s ease-Out;
+  }
+  
+  #circle {
+    width: 0%;
+    height: 0%;
+    opacity: 0;
+    line-height: 40px;
+    border-radius: 50%;
+    background: #ec7373;
+    position: absolute;
+    transition: all .5s ease-Out;
+    top: 20px;
+    left: 70px;
+  }
+  
+  #button-3:hover #circle {
+    width: 200%;
+    height: 500%;
+    opacity: 1;
+    top: -70px;
+    left: -70px;
+  }
+  
+  #button-3:hover a {
+    color: black;
+  }
+
+  #mail-button {
+    color: #ec7373;
+  }**/
